@@ -40,6 +40,11 @@ footer {
     padding: -20;
     overflow: hidden;
     background-color: #2F4F4F;
+    
+}
+
+p{
+    color:white;
 }
 .center {
     text-align: center;
