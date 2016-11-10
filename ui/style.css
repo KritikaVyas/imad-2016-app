@@ -46,6 +46,12 @@ footer {
 p2 a{
     color:white;
 }
+
+.center .footer{
+    padding:10px;
+    margin:0;
+    background-color:2F4F4F;
+}
 .center {
     text-align: center;
 }
