@@ -30,6 +30,7 @@ body {
     
 }
     .img-circle {
+        padding: -20;
         border-radius: 55%;
     }
 
