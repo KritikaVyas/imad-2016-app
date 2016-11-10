@@ -34,6 +34,13 @@ body {
         border-radius: 55%;
     }
 
+footer {
+    list-style-type:none;
+    margin: 0;
+    padding: -20;
+    overflow: hidden;
+    background-color: #2F4F4F;
+}
 .center {
     text-align: center;
 }
