@@ -32,7 +32,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/about', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'about.html'));
+  res.sendFile(path.join(__dirname, 'ui', 'ui/about.html'));
 });
 
 app.get('/ui/about.css', function (req, res) {
