@@ -4,7 +4,7 @@ ul {
     margin: 0;
     padding: -20;
     overflow: hidden;
-    background-color: #0000FF;
+    background-color: #2F4F4F;
 }
 
 li {
@@ -20,7 +20,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #2F4F4F;
+    background-color: #111;
 }
 
 body {
