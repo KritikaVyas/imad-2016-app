@@ -29,6 +29,9 @@ body {
     margin-top: 0px;
     
 }
+    .img-circle {
+        border-radius: 50%;
+    }
 
 .center {
     text-align: center;
