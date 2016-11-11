@@ -40,7 +40,7 @@ app.get('/ui/about.css', function (req, res) {
 });
 
 app.get('/contact', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', '.html'));
+  res.sendFile(path.join(__dirname, 'ui', 'contact.html'));
 });
 
 app.get('/ui/contact.css', function (req, res) {
